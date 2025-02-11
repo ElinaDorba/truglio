@@ -154,7 +154,7 @@ section#seccion{
 h1{
     width: 50%;
     font-family: "Montserrat";
-    font-weight: 200;
+    font-weight: 300;
     font-size: 1.3rem;
     text-align: center;
     color: #a7a393;
@@ -163,7 +163,7 @@ h1{
 
 h2{
     font-family: "Montserrat";
-    font-weight: 200;
+    font-weight: 300;
     font-size: 1.3rem;
     color: #a7a393;
     padding: 15px;
@@ -175,7 +175,7 @@ h2{
 
 p{
     font-family: "Montserrat";
-    font-weight: 100;
+    font-weight: 300;
     font-size: 1rem;
     text-align: center;
     color: #a7a393;
@@ -189,7 +189,7 @@ p{
 /* estilos contacto */
 h5{
     font-family: "Montserrat";
-    font-weight: 200;
+    font-weight: 300;
     font-size: 1.7rem;
     padding: 15px;
 }
@@ -356,7 +356,7 @@ section#vestidos {
 
 h6 {
     font-family: "Montserrat";
-    font-weight: 200;
+    font-weight: 300;
     font-size: 1.7rem;
     color: #A7727D;
     color: white;
