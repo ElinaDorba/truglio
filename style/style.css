@@ -46,6 +46,9 @@
 .abrir-menu {
     color: #A7727D;
     text-decoration: none;
+    /* text-align: right; */
+    transform: translateX(350%);
+
     width: 45px;
     height: 45px;
 }
